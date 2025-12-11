@@ -10,7 +10,7 @@ Sudoku is played on a grid of 9 x 9 spaces. Within the rows and columns are 9 sq
 A random solved sudoku board is generated everytime the game is run. 
 The solved puzzle is kept in a template and random spaces from said board are then deleted for the user to fill.
 User input values are compared with the ones from the solved template.
-User input is also tested for invalidity. Ie. row outside of bounds, value greater than 9.
+User input is also tested for invalidity (i.e., row outside of bounds, value greater than 9).
 
 ## Solver
 
